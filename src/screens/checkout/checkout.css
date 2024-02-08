@@ -1,0 +1,18 @@
+.noz-checkout-nav{
+    background-color: #FDFDFD;
+}
+
+.noz-checkout-nav img{
+    width: 120px;
+}
+
+.noz-checkout-nav .dot-in{
+    text-decoration: none;
+    position: relative;
+    right: 0.5rem;
+    bottom: 2px;
+}
+
+.noz-checkout{
+    width: 80%;
+}

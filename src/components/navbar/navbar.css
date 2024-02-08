@@ -1,0 +1,99 @@
+.nozama-nav{
+	background-color: var(--primary);
+	font-family: emberMedium;
+}
+
+.nozama-logo img{
+	width: 95px;
+}
+
+.nozama-logo a{
+	text-decoration: none;
+}
+
+.nozama-logo span{
+	position: relative;
+	bottom: 3px;
+}
+
+.nozama-deliver-to span{
+	font-size: 12px;
+}
+
+.nozama-deliver-to h6{
+	font-size: 15px;
+	font-family: emberBold;
+	line-height: 0.5;
+}
+
+.nozama-search-tab .nozama-select-option {
+	width: 120px;
+	font-size: 12px;
+	background-color: #DADADA;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	outline: 0;
+	border: 0;
+}
+
+.nozama-search-tab .nozama-search-input{
+	width: 39rem;
+	height: 2.7rem;
+	outline: 0;
+	border: 0;
+	font-size: 15px;
+}
+
+.nozama-search-tab .nozama-search-button{
+	border: 0;
+	outline: 0;
+	right: 2px;
+	position: relative;
+	background-color: #83b77d;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+.nozama-lanuage-tab{
+	font-family: emberBold;
+	font-size: 15px;
+}
+
+.nozama-lanuage-tab img{
+	width: 20px;
+}
+
+.nozama-account-list a{
+	color: white;
+	text-decoration: none;
+}
+
+.nozama-account-list, .nozama-returns-order{
+	font-family: emberBold;
+}
+
+.nozama-account-list span, .nozama-returns-order span{
+	font-size: 12px;
+}
+
+.nozama-account-list h5, .nozama-returns-order h5{
+	font-size: 15px;
+	line-height: 0.7;
+}
+
+.nozama-cart-tab span{
+	font-family: emberBold;
+	position: relative;
+	top: 0.7rem;
+}
+
+.nozama-category-section{
+	font-family: emberBold;
+	background-color: var(--secondary);
+	font-size: 14px;
+}
+
+.nozama-category-section a{
+	color: white;
+	text-decoration: none;
+}

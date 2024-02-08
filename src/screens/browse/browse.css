@@ -1,0 +1,12 @@
+.noz-browse .noz-browse-products .noz-browse-product-details select{
+	font-family: emberNormal;
+	background-color: #F0F2F1;
+	outline: 0;
+	border: 1px solid #C7C7C7;
+	border-radius: 10px;
+	font-size: 13px;
+}
+
+.noz-browse .noz-browse-products .noz-browse-product-details .noz-browse-product-details-body{
+	width: 700px;
+}

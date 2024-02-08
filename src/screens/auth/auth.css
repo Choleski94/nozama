@@ -1,0 +1,65 @@
+.nozama-auth{
+    width: 25%;
+}
+
+.nozama-auth .nozama-logo-auth img{
+    width: 130px;
+}
+
+.nozama-auth .nozama-logo-auth .dot-in{
+    position: relative;
+    right: 0.7rem;
+    bottom: 2px;
+    font-size: 13px;
+    color: black;
+    font-family: emberMedium;
+}
+
+.nozama-auth .auth-form{
+    border-radius: 5px;
+}
+
+.nozama-auth .auth-form h3{
+    font-family: emberMedium;
+    color: black;
+}
+
+.nozama-auth .auth-form .t-c{
+   font-size: 11.5px;
+   font-family: emberMedium;
+}
+
+.nozama-auth .auth-form a{
+    text-decoration: none;
+}
+
+.nozama-auth .auth-form a:hover, .auth-footer a:hover{
+    color: var(--info);
+    text-decoration: underline;
+}
+
+.nozama-auth .auth-form .noz-need-help{
+    font-size: 13px;
+    font-family: emberMedium;
+}
+
+.nozama-auth .noz-new-account span{
+    font-size: 12px;
+    font-family: emberMedium;
+}
+
+.nozama-auth .noz-help-text{
+    font-size: 12.5px;
+    font-family: emberMedium;   
+}
+
+.auth-footer a{
+    text-decoration: none;
+    font-size: 12px;
+    font-family: emberMedium;
+}
+
+.auth-footer .auth-footer-copyright{
+    font-size: 12px;
+    font-family: emberMedium;
+}

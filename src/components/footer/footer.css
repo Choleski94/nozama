@@ -1,0 +1,50 @@
+.nozama-footer .nozama-back-to-top{
+    background-color: #485769;
+    font-family: emberMedium;
+    font-size: 14px;
+}
+
+.nozama-footer .nozama-back-to-top a{
+    text-decoration: none;
+}
+
+.nozama-footer .nozama-footer-section-one{
+    background-color: var(--secondary);
+}
+
+.nozama-footer .nozama-footer-section-one a{
+   color: white;
+   text-decoration: none;
+   font-size: 14px;
+}
+
+.nozama-footer .nozama-footer-section-one a:hover{
+    text-decoration: underline;
+}
+
+.nozama-footer .nozama-footer-section-one h5{
+    font-family: emberBold;
+    font-size: 16px;
+}
+
+.nozama-footer .nozama-countries{
+    width: 45%;
+}
+
+.nozama-footer .nozama-countries a{
+    font-size: 11px;
+}
+
+.nozama-footer .nozama-footer-section-two{
+    background-color: var(--primary);
+}
+
+.nozama-footer .nozama-footer-section-two a, small{
+    color: white;
+    text-decoration: none;
+    font-size: 11px;
+}
+
+.nozama-footer .nozama-footer-section-two a:hover{
+    text-decoration: underline;
+}
