@@ -29,14 +29,30 @@ Welcome to the Amazon Clone UI Frontend Project! This project aims to replicate 
 To get started with the project, make sure you have Node.js and npm installed on your machine.
 
 ## Installation
-1. Clone the repository:
+0. Clone the repository:
    ```bash
    git clone https://github.com/choleski94/nozama.git
+   ```
+1. Navigate to the project directory:
+   ```bash
    cd ./nozama
+   ```
+2. Install dependencies:
+   ```bash
    npm install
    ```
 
 ## Usage
+0. Start the development server:
    ```bash
    yarn start:dev
    ```
+1. Open your browser and visit http://localhost:3000 to view the Amazon Clone UI.
+
+## Contributing
+
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
